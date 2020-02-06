@@ -3,5 +3,4 @@ Just an easy bash script for clearing terminal outputs. Since clear command in t
 
 ### Usage: 
 After cloning the repo, just put the bash script a known location. Then invoke the bash script in the following way:
-` sh clear.sh
-`
+` sh clear.sh`
